@@ -1,0 +1,1 @@
+in this web app I am using python from front-end to back-end using Flask. I am also incoroportating form validations within a static method. 
